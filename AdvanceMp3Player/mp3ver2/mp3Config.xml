@@ -1,0 +1,12 @@
+<?xml version ="1.0" encoding ="UTF-8" ?>
+
+<AudioPlayer>
+  <icons>
+     <quitButton>C:\Users\abcda\Desktop\mp3ver2\icons\quit.png</quitButton>
+	 <playButton>C:\Users\abcda\Desktop\mp3ver2\icons\play.png</playButton>
+	 <stopButton>C:\Users\abcda\Desktop\mp3ver2\icons\stop.png</stopButton>
+	 <pauseButton>C:\Users\abcda\Desktop\mp3ver2\icons\pause.png</pauseButton>
+	 <openFileButton>C:\Users\abcda\Desktop\mp3ver2\icons\open.png</openFileButton>
+  </icons>
+  <mp3File>C:\Users\abcda\Desktop\mp3</mp3File>
+</AudioPlayer>
